@@ -1,0 +1,13 @@
+{
+  "name": "oculus-store-api",
+  "version": "0.0.1",
+  "description": "Unofficial Oculus Store API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
