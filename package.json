@@ -1,7 +1,7 @@
 {
-  "name": "oculus-store-api",
+  "name": "oculus-graph",
   "version": "0.0.1",
-  "description": "Unofficial Oculus Store API",
+  "description": "Unofficial Oculus Graph API",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
